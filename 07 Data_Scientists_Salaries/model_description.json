@@ -1,0 +1,23 @@
+{
+    "project": "Data Scientists Salary Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 48.77226990089489,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 48.77226990089489,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 45735.05097447862,
+        "MAE": 35100.76889829793,
+        "R2_train": 0.5073222653872201,
+        "R2_test": 0.49603257947023405,
+        "R2_full": 0.4922865290466556,
+        "Mean_Salary": 140987.1510989011
+    }
+}
