@@ -1,0 +1,23 @@
+{
+    "project": "Calories Burnt Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 0.06459075632464698,
+        "l1_ratio": 0.99,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 0.06459075632464698,
+        "l1_ratio": 0.99,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 3.078458684853394,
+        "MAE": 2.251940023617992,
+        "R2_train": 0.9976143035825724,
+        "R2_test": 0.997502312868259,
+        "R2_full": 0.9975853212733796,
+        "Mean_Calories_Burnt": 89.50813658796852
+    }
+}
