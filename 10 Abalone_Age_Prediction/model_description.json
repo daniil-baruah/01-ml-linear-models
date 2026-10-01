@@ -1,0 +1,23 @@
+{
+    "project": "Abalone Age Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 0.0021458533085634123,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 0.0021458533085634123,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 2.08036459311864,
+        "MAE": 1.4776993594357328,
+        "R2_train": 0.5848761453937501,
+        "R2_test": 0.5973348538819259,
+        "R2_full": 0.5858245200895785,
+        "Mean_Abalone_Age": 11.421766258699304
+    }
+}
