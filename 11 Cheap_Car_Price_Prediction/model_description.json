@@ -1,0 +1,23 @@
+{
+    "project": "Cheap Car Price Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 65.11962444741994,
+        "l1_ratio": 1.0,
+        "cv": 5
+    },
+    "final_parameters": {
+        "alpha": 65.11962444741994,
+        "l1_ratio": 1.0,
+        "cv": 5
+    },
+    "metrics": {
+        "RMSE": 13924.424584117216,
+        "MAE": 7545.632505735595,
+        "R2_train": 0.9226215063533382,
+        "R2_test": 0.8992590160847267,
+        "R2_full": 0.9216706693810338,
+        "Mean_Car_Prices": 39553.89462184874
+    }
+}
