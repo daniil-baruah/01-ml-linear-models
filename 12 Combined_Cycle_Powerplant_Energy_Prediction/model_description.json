@@ -1,0 +1,23 @@
+{
+    "project": "Combined Cycle Powerplant Energy Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 0.01620811118578594,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 0.01620811118578594,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 4.285354426761003,
+        "MAE": 3.476678530546892,
+        "R2_train": 0.94173124416264,
+        "R2_test": 0.9366591886869986,
+        "R2_full": 0.9412534690155246,
+        "Mean_Combined_Cycle_Powerplant_Energy": 454.35932551319644
+    }
+}
