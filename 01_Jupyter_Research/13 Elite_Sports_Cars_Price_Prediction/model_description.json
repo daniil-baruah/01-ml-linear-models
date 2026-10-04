@@ -1,0 +1,23 @@
+{
+    "project": "Elite Sports Car Price Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 1656.8714138366765,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 1656.8714138366765,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 94551.26327730986,
+        "MAE": 64298.48921764583,
+        "R2_train": 0.961107257418966,
+        "R2_test": 0.9718931981561503,
+        "R2_full": 0.9810512098340867,
+        "Mean_Elite_Sports_Car_Prices": 337218.7833333333
+    }
+}
