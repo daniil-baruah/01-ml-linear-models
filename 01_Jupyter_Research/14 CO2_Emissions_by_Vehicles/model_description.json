@@ -1,0 +1,23 @@
+{
+    "project": "CO2 Emissions Vehicle Data",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 0.054089036091249265,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 0.054089036091249265,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 4.700158296341786,
+        "MAE": 2.8449668449053958,
+        "R2_train": 0.9968272900796229,
+        "R2_test": 0.9936308487115816,
+        "R2_full": 0.9966227064151278,
+        "Mean_CO2_Emmisions": 250.99569583931134
+    }
+}
