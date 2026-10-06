@@ -1,0 +1,23 @@
+{
+    "project": "Lamborghini Price Prediction",
+    "model": "ElasticNetCV",
+    "trained_date": "2026-07",
+    "test_parameters": {
+        "alpha": 145.30335352095602,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "final_parameters": {
+        "alpha": 145.30335352095602,
+        "l1_ratio": 1.0,
+        "cv": 10
+    },
+    "metrics": {
+        "RMSE": 2983.971970898752,
+        "MAE": 2754.323055481737,
+        "R2_train": 0.9997476975809099,
+        "R2_test": 0.9992788589560586,
+        "R2_full": 0.9996923993421061,
+        "Mean_Lamborghini_Price": 374722.22222222225
+    }
+}
